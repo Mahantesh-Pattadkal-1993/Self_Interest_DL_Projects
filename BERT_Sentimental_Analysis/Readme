@@ -1,1 +1,1 @@
-
+The goal of this project is to tune the BERT for sentimental classification using pyTorch. An additional layer is stacked on top of the BERT model so that the sentiment can be classified as pos or neg. 
